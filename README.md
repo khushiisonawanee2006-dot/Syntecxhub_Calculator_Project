@@ -1,2 +1,12 @@
 # Syntecxhub_Calculator_Project
-A Python command-line calculator project built during my Syntecxhub internship.
+Simple Command-line calculator built using Pyhton.
+## Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear Option
+- Exit Option
+- Input Validation
+## Internship Project
+Completed as part of Syntecxhub internship,
