@@ -9,4 +9,7 @@ Simple Command-line calculator built using Pyhton.
 - Exit Option
 - Input Validation
 ## Internship Project
-Completed as part of Syntecxhub internship,
+Completed as part of Syntecxhub internship.
+
+## Sample Output
+![Calculator Output](output.png)
